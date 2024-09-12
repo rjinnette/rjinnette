@@ -1,11 +1,14 @@
 ## About Me
-My name is Ryan and I'm a rising Senior at Universtiy of Texas Austin. I am studying Management Information Systems (MIS) with a Certificate in Computer Science.
+My name is Ryan and I'm a  Senior at Universtiy of Texas at Austin. I am studying Management Information Systems (MIS) with a Certificate in Computer Science.
 
 
 ## My Projects
 I enjoy working in Python and Data Science libraries and try to automate as many things as possible to solve my friends and I unique asks and questions.
 My next project is working to automate my finances by utilizing more API's to grab and update data.
 
+## Goals
+I plan to recruit and work in some sort of Data Analytics role where I can have hands on experience with Data in a full tech stack. I have prior experience with Python, SQL, R, .js, HTML, and C#
+and hope to leverage these skills in a full-time position.
 Thanks for reading and Hook 'Em
 
 <!--
