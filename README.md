@@ -4,12 +4,13 @@ My name is Ryan and I'm a  Senior at Universtiy of Texas at Austin. I am studyin
 
 ## My Projects
 I enjoy working in Python and Data Science libraries and try to automate as many things as possible to solve my friends and I unique asks and questions.
-My next project is working to automate my finances by utilizing more API's to grab and update data.
+My next project is working to automate my finances by utilizing more API's to grab and update data. The current plan is to implement Chase and Plaid for my [budgeting project](https://github.com/rjinnette/Budget)
 
 ## Goals
-I plan to recruit and work in some sort of Data Analytics role where I can have hands on experience with Data in a full tech stack. I have prior experience with Python, SQL, R, .js, HTML, and C#
+I plan to recruit and work in some sort of Data Analytics/Science role where I can have hands on experience with data in a full tech stack. I have prior experience with Python, SQL, R, .js, HTML, and C#
 and hope to leverage these skills in a full-time position.
-Thanks for reading and Hook 'Em
+
+Thanks for reading and Hook 'Em 🤘
 
 <!--
 **rjinnette/rjinnette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
